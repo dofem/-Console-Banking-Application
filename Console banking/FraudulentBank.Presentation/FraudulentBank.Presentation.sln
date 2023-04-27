@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudulentBank.Presentation", "FraudulentBank.Presentation.csproj", "{EF171E09-77E8-497C-941B-7034CFEB0726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FraudulentBank.Customer", "..\FraudulentBank.Customer\FraudulentBank.Customer.csproj", "{2F204812-D56D-4E5B-8DE2-E43E643DEEE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF171E09-77E8-497C-941B-7034CFEB0726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF171E09-77E8-497C-941B-7034CFEB0726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF171E09-77E8-497C-941B-7034CFEB0726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF171E09-77E8-497C-941B-7034CFEB0726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F204812-D56D-4E5B-8DE2-E43E643DEEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F204812-D56D-4E5B-8DE2-E43E643DEEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F204812-D56D-4E5B-8DE2-E43E643DEEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F204812-D56D-4E5B-8DE2-E43E643DEEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012BDA32-9D27-4202-BAC0-7B347D081F25}
+	EndGlobalSection
+EndGlobal
